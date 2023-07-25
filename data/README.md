@@ -1,14 +1,29 @@
-# Data introduction
-Raw data acquired from Google AirQuality Hackthon and processed `.csv`，`.osm` files.
+# About Data
+This data folder contains the raw data acquired from Google AirQuality Hackthon and processed `csv`，`osm` files used in our research.
 
-Raw data: [Google Project Air View Dublin](https://insights.sustainability.google/places/ChIJv2RI7foRZ0gRwAKA8azHAAM)
+Raw data: [Google Project Air View Dublin](https://insights.sustainability.google/places/ChIJv2RI7foRZ0gRwAKA8azHAAM) from May 2021 to August 2022
+
+OSM data: Generated from [graph_generator.py](../scripts/graph_generator.py)
+
+**edges_dublinbike.csv**: Dublin road edges for cyclists.
+
+CSV data: 
 
 
+2. polutants_osm_id_avgValues_OrderedFirst_NegtoNaN.csv
+ - Air pollutant value on each road segment with OSMID.
+3. attr_dublinbike_withoutna.csv
+ - Dublin bike road attributes (air pollutant value), N/A value fully filled. 
+4. attr_dublinbike_withoutna_normalised.csv
+ - Normalised Dublin bike road attributes (air pollutant value), with N/A value fully filled.
+5. result_bike_station.csv
+ - Experiment results from O-D pairs on bike stations.
+6. result_random_points.csv
+ - Experiment results from O-D pairs randomly picked.
+7. result_each_pollutant.csv
+ - Experiment results from one O-D pair with different pollutants.
+8. single_with_GPS.csv
+ - Routes based on the experiment results from one O-D pair with different pollutants.
 
-# Data processing
-
-Data processing part for Google Airquality Data
-
-1. Filter the Measurements and the Road by the New Bounding box coordinates [-6.3721586 53.2873811 -6.1300669 53.4323343] given by Shaoshu. 
 
 
