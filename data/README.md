@@ -5,24 +5,31 @@ Raw data: [Google Project Air View Dublin](https://insights.sustainability.googl
 
 OSM data: Generated from [graph_generator.py](../scripts/graph_generator.py)
 
-**edges_dublinbike.csv**: Dublin road edges for cyclists.
+**edges_dublinbike.csv**
+
+- Dublin road edges for cyclists.
 
 CSV data: 
 
-
-2. polutants_osm_id_avgValues_OrderedFirst_NegtoNaN.csv
+**polutants_osm_id_avgValues_OrderedFirst_NegtoNaN.csv**
  - Air pollutant value on each road segment with OSMID.
-3. attr_dublinbike_withoutna.csv
+
+**attr_dublinbike_withoutna.csv**
  - Dublin bike road attributes (air pollutant value), N/A value fully filled. 
-4. attr_dublinbike_withoutna_normalised.csv
+
+**attr_dublinbike_withoutna_normalised.csv**
  - Normalised Dublin bike road attributes (air pollutant value), with N/A value fully filled.
-5. result_bike_station.csv
+
+**result_bike_station.csv**
  - Experiment results from O-D pairs on bike stations.
-6. result_random_points.csv
+
+**result_random_points.csv**
  - Experiment results from O-D pairs randomly picked.
-7. result_each_pollutant.csv
+
+**result_each_pollutant.csv**
  - Experiment results from one O-D pair with different pollutants.
-8. single_with_GPS.csv
+
+**single_with_GPS.csv**
  - Routes based on the experiment results from one O-D pair with different pollutants.
 
 
