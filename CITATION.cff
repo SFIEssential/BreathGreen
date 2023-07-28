@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use the code created or the method proposed in your research, please cite it using these metadata."
+abstract: Breathing Green is an air quality investigation project that originated from Air Quality Data Hack organized by Google. The main objective of this project is to recommend a green route to a cyclist that minimizes their exposure to pollutants by a specified pollutant index while travelling in Dublin from a specific starting point to a destination.
+authors:
+  - family-names: Yan
+    given-names: Sen
+  - family-names: Zhu
+    given-names: Shaoshu
+  - family-names: B. Fernandez
+    given-names: Jaime
+  - family-names: Arazo Sánchez
+    given-names: Eric
+  - family-names: Gu
+    given-names: Yingqi
+  - family-names: E. O`Connor
+    given-names: Noel
+  - family-names: O`Connor
+    given-names: David
+  - family-names: Liu
+    given-names: Mingming
+    email: mingming.liu@dcu.ie
+title: "Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data"
+version: 1.1.0
+date-released: "2023-08-08"
+keywords:
+  - Air Pollution
+  - Data Analysis
+  - Micromobility
+  - Recommendation System
+  - Route Planning
+doi: temporarily_unavailable
