@@ -10,8 +10,8 @@
 
 ---
 # Background
-<img src="snapshot_dublin.png" width="350" height="200">
-<img src="./route.png"  width="350" height="200"></img> 
+<img src="snapshot_dublin.png" width="340" height="200">
+<img src="./route.png"  width="340" height="200"></img> 
 
 Breathing Green is an air quality investigation project that originated from [Air Quality Data Hack](https://airqualitydatahack.com/) organized by Google. The main objective of this project is to recommend a green route to a cyclist that minimizes their exposure to pollutants by a specified pollutant index while travelling in Dublin from a specific starting point to a destination.
 
