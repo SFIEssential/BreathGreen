@@ -3,7 +3,7 @@
 <p align="center"> An investigation through Google Air Quality dataset in Dublin. </p>
 
 <p align="center">
-  <a href="#Background">Analysis</a> | <a href="#Paper">Paper</a> | <a href="./data/README.md"> Docs </a> 
+  <a href="#Background">Analysis</a> | <a href="http://arxiv.org/abs/2307.15401">Paper</a> | <a href="./data/README.md"> Docs </a> 
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
