@@ -20,7 +20,7 @@ This repository contains the link for raw data acquired from Google AirQuality H
 **Google Project Air View Data - Dublin City (May 2021 - August 2022)**: This dataset was collected by Google and Dublin City Council as part of Project Air View Dublin.
 Google’s first electric Street View car, equipped with Aclima’s mobile air sensing platform, drove through the roads of Dublin City measuring street-by-street air quality. The data collection process predominantly took place from Monday to Friday between 9:00 am and 5:00 pm from May 2021 to August 2022.
 
-For description of data pre-processing, check our <a href="./data/README.md"> Paper </a>:
+For description of data pre-processing, check our <a href="http://arxiv.org/abs/2307.15401"> Paper </a>:
 
 <img src="area_filling.png">
 
