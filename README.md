@@ -3,12 +3,29 @@
 <p align="center"> An investigation through Google Air Quality dataset in Dublin. </p>
 
 <p align="center">
-  <a href="#Background">Analysis</a> | <a href="http://arxiv.org/abs/2307.15401">Paper</a> | <a href="./data/README.md"> Docs </a> 
+  <a href="#Analysis">Analysis</a> | <a href="http://arxiv.org/abs/2307.15401">Paper</a> | <a href="./data/README.md"> Docs </a> 
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
+
+*Yan, S., Zhu, S., Fernandez, J. B., Sánchez, E. A., Gu, Y., O'Connor, N. E., ... & Liu, M. (2023). Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data. arXiv preprint arXiv:2307.15401.*
+
+- <a href="https://arxiv.org/abs/2307.15401"> arXiv </a>
+
+If you feel our research and data useful, welcome to cite:
+
+```
+@article{yan2023breathing,
+  title={Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data},
+  author={Yan, Sen and Zhu, Shaoshu and Fernandez, Jaime B and S{\'a}nchez, Eric Arazo and Gu, Yingqi and O'Connor, Noel E and O'Connor, David and Liu, Mingming},
+  journal={arXiv preprint arXiv:2307.15401},
+  year={2023}
+}
+```
+
+
 # Background
 <img src="snapshot_dublin.png" width="320" height="200"> <img src="./route.png"  width="320" height="200"></img> 
 
@@ -33,9 +50,9 @@ Pollutant saving and distance analysis on private devices and shared devices are
 <img src="./table1.jpg" width="360"></img> <img src="./table2.jpg" width="360" height="179"></img> 
 
 
-Demo example:
+# Demo
 
-<center><img  src="./demo.jpg"  width="320" height="300"></img></center> 
+A <a href="https://www.youtube.com/shorts/Ji-2Svjrvfw"> Demo </a> was built to elaborate how the analysis could be applied in improving life quality of Dublin citizens.
 
 
 ---
