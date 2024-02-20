@@ -3,7 +3,7 @@
 <p align="center"> An investigation through Google Air Quality dataset in Dublin. </p>
 
 <p align="center">
-  <a href="#Analysis">Analysis</a> | <a href="http://arxiv.org/abs/2307.15401">Paper</a> | <a href="./data/README.md"> Docs </a> 
+  <a href="#Analysis">Analysis</a> | <a href="http://dx.doi.org/10.1109/ITSC57777.2023.10421940">Paper</a> | <a href="./data/README.md"> Docs </a> 
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,16 +12,21 @@
 
 *Yan, S., Zhu, S., Fernandez, J. B., Sánchez, E. A., Gu, Y., O'Connor, N. E., ... & Liu, M. (2023). Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data. arXiv preprint arXiv:2307.15401.*
 
+- <a href="http://dx.doi.org/10.1109/ITSC57777.2023.10421940"> IEEE Xplore </a>
 - <a href="https://arxiv.org/abs/2307.15401"> arXiv </a>
 
 If you feel our research and data useful, welcome to cite:
 
 ```
-@article{yan2023breathing,
-  title={Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data},
-  author={Yan, Sen and Zhu, Shaoshu and Fernandez, Jaime B and S{\'a}nchez, Eric Arazo and Gu, Yingqi and O'Connor, Noel E and O'Connor, David and Liu, Mingming},
-  journal={arXiv preprint arXiv:2307.15401},
-  year={2023}
+@inproceedings{Yan2023,
+  title = {Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data},
+  url = {http://dx.doi.org/10.1109/ITSC57777.2023.10421940},
+  DOI = {10.1109/itsc57777.2023.10421940},
+  booktitle = {2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)},
+  publisher = {IEEE},
+  author = {Yan, Sen and Zhu, Shaoshu and Fernandez, Jaime B. and Sánchez, Eric Arazo and Gu, Yingqi and O’Connor, Noel E. and O’Connor, David and Liu, Mingming},
+  year = {2023},
+  month = sep 
 }
 ```
 
@@ -37,7 +42,7 @@ This repository contains the link for raw data acquired from Google AirQuality H
 **Google Project Air View Data - Dublin City (May 2021 - August 2022)**: This dataset was collected by Google and Dublin City Council as part of Project Air View Dublin.
 Google’s first electric Street View car, equipped with Aclima’s mobile air sensing platform, drove through the roads of Dublin City measuring street-by-street air quality. The data collection process predominantly took place from Monday to Friday between 9:00 am and 5:00 pm from May 2021 to August 2022.
 
-For description of data pre-processing, check our <a href="http://arxiv.org/abs/2307.15401"> Paper </a>:
+For description of data pre-processing, check our <a href="http://dx.doi.org/10.1109/ITSC57777.2023.10421940"> Paper </a>:
 
 <img src="area_filling.png">
 
