@@ -10,7 +10,7 @@
 
 ---
 
-*Yan, S., Zhu, S., Fernandez, J. B., Sánchez, E. A., Gu, Y., O'Connor, N. E., ... & Liu, M. (2023). Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data. arXiv preprint arXiv:2307.15401.*
+*S. Yan et al., "Breathing Green: Maximising Health and Environmental Benefits for Active Transportation Users Leveraging Large Scale Air Quality Data," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 5496-5503, doi: 10.1109/ITSC57777.2023.10421940.*
 
 - <a href="http://dx.doi.org/10.1109/ITSC57777.2023.10421940"> IEEE Xplore </a>
 - <a href="https://arxiv.org/abs/2307.15401"> arXiv </a>
